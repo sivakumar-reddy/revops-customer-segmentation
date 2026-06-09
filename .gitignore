@@ -1,0 +1,35 @@
+﻿# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Environment variables (secrets)
+.env
+
+# Data files (too large for GitHub, keep local)
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+
+# Reports / outputs
+reports/figures/*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
