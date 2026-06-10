@@ -33,3 +33,7 @@ Thumbs.db
 
 # Logs
 *.log
+# Environment variables (NEVER commit these — contain DB credentials)
+.env
+.env.local
+.env.*.local
