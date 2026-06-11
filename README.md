@@ -175,7 +175,7 @@ This is a portfolio study, not a production system. If I were deploying this ana
 **Sivakumar Reddy Yenna**
 Recent MS in Management Information Systems, Northern Illinois University
 
-Open to **Business Analyst, BI Analyst, and Marketing Analyst** roles in the **Chicago metro area or anywhere in the US**.
+Open to **Business Analyst, BI Analyst, Revops Analyst and Marketing Analyst** roles in the **Chicago metro area or anywhere in the US**.
 
 * **Email:** reddysivakumar1361@gmail.com
 * **LinkedIn:** [linkedin.com/in/sivakumar-reddy-yenna](https://www.linkedin.com/in/sivakumar-reddy-yenna)
